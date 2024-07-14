@@ -38,16 +38,20 @@ Implemented the MVP (Model-View-Presenter) architecture to enhance the developme
 ## CraftyBay UI
 
 <div style="display: flex; flex-wrap: wrap;">
-https://github.com/user-attachments/assets/624857ae-d58d-4720-83a0-030ea974baca
 ![Uploading Screenshot_2024-07-14-06-24-03-19_e545f1424c3cc1faadfe232a04de34dc.jpg…]()
-![Screenshot_2024-07-14-06-31-23-62_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/06724e56-3e79-4eea-b57c-6562d927e215)
-![Screenshot_2024-07-14-06-24-17-59_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/090ba723-8b4a-48be-8ef2-0061239c9e5f)
-![Screenshot_2024-07-14-06-30-24-75_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/2cdc1009-38e2-4742-a623-5b497c864006)
-![Screenshot_2024-07-14-06-28-51-28_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/9da1d45b-0a7b-4174-9192-3c6fce03e7c4)
-![Screenshot_2024-07-14-06-43-21-65_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/de2834bb-fe2f-43a2-b8b3-d90145652fc0)
-![Screenshot_2024-07-14-06-28-46-37_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/f3c9c466-9e36-4c95-8856-317adcceedc2)
+
+
+
+
+
  
  <img src="https://github.com/user-attachments/assets/624857ae-d58d-4720-83a0-030ea974baca" width="200" />
+  <img src="https://github.com/user-attachments/assets/06724e56-3e79-4eea-b57c-6562d927e215" width="200" />
+   <img src="https://github.com/user-attachments/assets/090ba723-8b4a-48be-8ef2-0061239c9e5f" width="200" />
+  <img src="https://github.com/user-attachments/assets/2cdc1009-38e2-4742-a623-5b497c864006" width="200" />
+    <img src="https://github.com/user-attachments/assets/9da1d45b-0a7b-4174-9192-3c6fce03e7c4" width="200" />
+   <img src="https://github.com/user-attachments/assets/de2834bb-fe2f-43a2-b8b3-d90145652fc0" width="200" />
+  <img src="https://github.com/user-attachments/assets/f3c9c466-9e36-4c95-8856-317adcceedc2" width="200" />
 </div>
 
 
