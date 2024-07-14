@@ -41,11 +41,8 @@ Implemented the MVP (Model-View-Presenter) architecture to enhance the developme
 ![Uploading Screenshot_2024-07-14-06-24-03-19_e545f1424c3cc1faadfe232a04de34dc.jpg…]()
 
 
-
-
-
- 
  <img src="https://github.com/user-attachments/assets/624857ae-d58d-4720-83a0-030ea974baca" width="200" />
+  <img src="https://github.com/user-attachments/assets/7bcef5c5-323b-4d69-b74c-557acf929756" width="200" />
   <img src="https://github.com/user-attachments/assets/06724e56-3e79-4eea-b57c-6562d927e215" width="200" />
    <img src="https://github.com/user-attachments/assets/090ba723-8b4a-48be-8ef2-0061239c9e5f" width="200" />
   <img src="https://github.com/user-attachments/assets/2cdc1009-38e2-4742-a623-5b497c864006" width="200" />
