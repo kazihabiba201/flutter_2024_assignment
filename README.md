@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/624857ae-d58d-4720-83a0-030ea974baca
 ![Screenshot_2024-07-14-06-43-21-65_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/de2834bb-fe2f-43a2-b8b3-d90145652fc0)
 ![Screenshot_2024-07-14-06-28-46-37_e545f1424c3cc1faadfe232a04de34dc](https://github.com/user-attachments/assets/f3c9c466-9e36-4c95-8856-317adcceedc2)
  
- <img src="https://github.com/hredhayxz/craftybay_ecommerce_application/blob/main/screenshots/27.png" width="200" />
+ <img src="https://github.com/user-attachments/assets/624857ae-d58d-4720-83a0-030ea974baca" width="200" />
 </div>
 
 
