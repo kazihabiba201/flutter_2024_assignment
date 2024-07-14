@@ -60,7 +60,7 @@ Ensure Flutter is installed on your machine. For installation instructions, refe
 
 ### Installation
 
-Follow these steps to run the News Read Application:
+Follow these steps to run the Application:
 
 1. Clone this repository to your local machine:
 
