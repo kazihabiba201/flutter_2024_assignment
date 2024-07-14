@@ -35,7 +35,7 @@ Implemented the MVP (Model-View-Presenter) architecture to enhance the developme
 
 
 
-## CraftyBay UI
+## App UI
 
 <div style="display: flex; flex-wrap: wrap;">
 ![Uploading Screenshot_2024-07-14-06-24-03-19_e545f1424c3cc1faadfe232a04de34dc.jpg…]()
